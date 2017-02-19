@@ -1,2 +1,2 @@
-# S-ralama-Algoritmalar-
-Python ile sıralama algoritmaları
+# Sıralama Algoritmaları
+Sıralama Algoritmaları
