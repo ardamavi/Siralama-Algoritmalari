@@ -1,7 +1,8 @@
   
 // Arda Mavi - ardamavi.com
 
-// iostream ve vector kütüphanelerini dahil etmeyi unutmayınız !
+#include <iostream>
+#include <vector>
 
 using namespace std;
 
