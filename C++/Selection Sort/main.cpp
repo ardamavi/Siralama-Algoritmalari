@@ -1,7 +1,7 @@
   
 // Arda Mavi - ardamavi.com
 
-// iostream kütüphanesini dahil etmeyi unutmayınız !
+#include <iostream>
 
 using namespace std;
 
