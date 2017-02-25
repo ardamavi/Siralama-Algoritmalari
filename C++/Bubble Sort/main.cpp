@@ -41,9 +41,11 @@ int main() {
         }
     }
     
+    cout << "Sıralanmış Hali:" << endl;
+    
     for(int k = 0; k < n; k++){
         
-        cout << arr[k];
+        cout << arr[k] << endl;
         
     }
     
